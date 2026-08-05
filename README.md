@@ -1,28 +1,33 @@
-<!-- Matrix Rain Banner (animated GIF) - Eye-catching size -->
+<!-- Header: GIF left · Text right -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
-</p>
-
-<h1 align="center">Sarif Tachamo</h1>
-
-<p align="center">
-  <strong>Computer Engineering Student</strong> · 
-  <strong>Cybersecurity Researcher &amp; Enthusiast</strong> · 
-  <strong>AI/ML Enthusiast</strong>
-  <br />
-  from 🇳🇵 Nepal
-</p>
-
-<p align="center">
-  <a href="https://discord.com/invite/55e4VebV">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.linkedin.com/in/sarif-tachamo-cybersec/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sariftachamo.job@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+      </td>
+      <td align="left">
+        <h1>Sarif Tachamo</h1>
+        <p>
+          <strong>Computer Engineering Student</strong> · 
+          <strong>Cybersecurity Researcher &amp; Enthusiast</strong> · 
+          <strong>AI/ML Enthusiast</strong>
+          <br />
+          from 🇳🇵 Nepal
+        </p>
+        <p>
+          <a href="https://discord.com/invite/55e4VebV">
+            <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+          </a>
+          <a href="https://www.linkedin.com/in/sarif-tachamo-cybersec/">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+          <a href="mailto:sariftachamo.job@gmail.com">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
