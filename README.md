@@ -1,5 +1,6 @@
 <h2 data-importer="text" align="left">
-Hi 👋! I'm <b>Sarif Tachamo</b> — a <b>Computer Engineering Student, Cybersecurity Researcher & AI/ML Enthusiast</b> from 🇳🇵 Nepal.
+Hi 👋! I'm <b>Sarif Tachamo</b> <br>
+<b>Computer Engineering Student | Cybersecurity Researcher & Enthusiast | AI/ML Enthusiast</b> from 🇳🇵 Nepal.
 </h2>
 
 <p align="left">
@@ -10,24 +11,29 @@ Hi 👋! I'm <b>Sarif Tachamo</b> — a <b>Computer Engineering Student, Cyberse
 
 ###
 
-<div data-importer="stats" align="center">
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sariftachamo-9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats"/>
+<img height="165"
+src="https://github-readme-stats.hackclub.dev/api?username=sariftachamo-9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false"
+alt="GitHub Stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariftachamo-9&layout=compact&langs_count=8&theme=dracula&hide_border=false" alt="Top Languages"/>
+<img height="165"
+src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sariftachamo-9&layout=compact&langs_count=8&theme=dracula&hide_border=false"
+alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sariftachamo-9&theme=dracula&hide_border=false" alt="GitHub Streak"/>
+<img
+src="https://streak-stats.demolab.com?user=sariftachamo-9&theme=dracula&hide_border=false"
+alt="GitHub Streak"/>
 
 </div>
 
 ###
 
 <img
-data-importer="image"
 align="right"
 height="180"
 src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
@@ -48,57 +54,57 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 
 ## 💻 Tech Stack
 
-<div data-importer="techs" align="left">
+<div align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="NextJS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" alt="TailwindCSS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35" alt="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="35" alt="Cloudflare"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35" alt="SQLite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
 
 </div>
 
@@ -106,7 +112,7 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 
 ## 🌐 Connect With Me
 
-<div data-importer="socials" align="left">
+<div align="left">
 
 <a href="https://github.com/sariftachamo-9">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -144,7 +150,11 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 ## 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sariftachamo-9&theme=dracula&hide_border=false" alt="Activity Graph"/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=sariftachamo-9&theme=dracula&hide_border=false"
+alt="Activity Graph"/>
+
 </p>
 
 ###
@@ -153,7 +163,9 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sariftachamo-9&theme=dracula&margin-w=10&margin-h=10&no-frame=false&no-bg=false"/>
+<img
+src="https://github-profile-trophy.vercel.app/?username=sariftachamo-9&theme=dracula&margin-w=10&margin-h=10"
+alt="GitHub Trophies"/>
 
 </p>
 
@@ -163,7 +175,9 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sariftachamo-9&style=for-the-badge&color=blueviolet" alt="Visitor Counter"/>
+<img
+src="https://komarev.com/ghpvc/?username=sariftachamo-9&style=for-the-badge&color=blueviolet"
+alt="Visitor Counter"/>
 
 </p>
 
@@ -172,10 +186,8 @@ src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
 <br clear="both">
 
 <img
-data-importer="snake"
 src="https://raw.githubusercontent.com/sariftachamo-9/sariftachamo-9/output/snake.svg"
-alt="Snake animation"
-/>
+alt="Snake animation"/>
 
 ###
 
