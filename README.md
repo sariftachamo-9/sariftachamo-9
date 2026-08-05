@@ -34,7 +34,8 @@
 
 ## 💫 About Me
 
-Hi 👋! I'm **Sarif Tachamo** — a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.  
+Hi 👋! I'm **Sarif Tachamo** 
+- a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.  
 I love breaking down complex systems, hunting vulnerabilities, and building intelligent solutions. Currently exploring the intersection of offensive security and machine learning.
 
 ---
