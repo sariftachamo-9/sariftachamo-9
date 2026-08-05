@@ -3,7 +3,7 @@
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" />
       </td>
       <td align="left">
         <h1>Sarif Tachamo</h1>
@@ -34,9 +34,15 @@
 
 ## 💫 About Me
 
-Hi 👋! I'm **Sarif Tachamo** 
-- a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.  
+Hi 👋! I'm **Sarif Tachamo** – a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.  
 I love breaking down complex systems, hunting vulnerabilities, and building intelligent solutions. Currently exploring the intersection of offensive security and machine learning.
+
+<p data-importer="text" align="left">
+  I'm Sarif from Nepal.<br><br>
+  - 🔭 I’m working as a Cybersecurity Researcher &amp; Student Developer<br>
+  - 📚 I'm currently learning Advanced Penetration Testing &amp; ML for Security<br>
+  - ⚡ In my free time I participate in CTFs and build offensive tools
+</p>
 
 ---
 
