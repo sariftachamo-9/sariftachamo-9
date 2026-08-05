@@ -82,12 +82,6 @@
   </a>
 </p>
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sariftachamo-9&theme=dark&hide_border=false&hide_longest_streak=true" alt="GitHub Streak" />
-</p>
-
 ### 📈 Contribution Graph
 
 <p align="center">
