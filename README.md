@@ -8,8 +8,8 @@
       <td align="left">
         <h1>Sarif Tachamo</h1>
         <p>
-          <strong>Computer Engineering Student</strong> · 
-          <strong>Cybersecurity Researcher &amp; Enthusiast</strong> · 
+          <strong>Computer Engineering Student</strong> | 
+          <strong>Cybersecurity Researcher &amp; Enthusiast</strong> | 
           <strong>AI/ML Enthusiast</strong>
           <br />
           from 🇳🇵 Nepal
@@ -139,5 +139,5 @@ I love breaking down complex systems, hunting vulnerabilities, and building inte
 ---
 
 <p align="center">
-  <sub>⚡ built with &lt;/&gt; — sariftachamo-9 · cybersecurity theme</sub>
+  <sub>⚡ built by — Sarif Tachamo | Cybersecurity Theme</sub>
 </p>
