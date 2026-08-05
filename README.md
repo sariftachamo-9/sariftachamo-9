@@ -1,9 +1,10 @@
-<!-- Matrix Rain Banner (animated GIF) -->
+<!-- Matrix Rain Banner (animated GIF) - Eye-catching size -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
 </p>
 
 <h1 align="center">Sarif Tachamo</h1>
+
 <p align="center">
   <strong>Computer Engineering Student</strong> · 
   <strong>Cybersecurity Researcher &amp; Enthusiast</strong> · 
@@ -13,9 +14,15 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/invite/55e4VebV"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://www.linkedin.com/in/sarif-tachamo-cybersec/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sariftachamo.job@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discord.com/invite/55e4VebV">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/sarif-tachamo-cybersec/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sariftachamo.job@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
@@ -44,7 +51,7 @@ I love breaking down complex systems, hunting vulnerabilities, and building inte
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
@@ -68,6 +75,8 @@ I love breaking down complex systems, hunting vulnerabilities, and building inte
 
 ### 🔥 GitHub Streak
 
+> **Fixed:** Shows only *Total Contributions* and *Current Streak* (longest streak hidden).
+
 <p align="center">
   <a href="https://github.com/sariftachamo-9">
     <img src="https://streak-stats.demolab.com/?user=sariftachamo-9&theme=dark&hide_border=false&hide_longest_streak=true" alt="GitHub Streak" />
@@ -79,14 +88,6 @@ I love breaking down complex systems, hunting vulnerabilities, and building inte
 <p align="center">
   <a href="https://github.com/sariftachamo-9">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sariftachamo-9&theme=react-dark&hide_border=true&area=true&bg_color=0b0e14&color=00d4b0&line=00d4b0&point=00ffc8" alt="Activity Graph" />
-  </a>
-</p>
-
-### 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <a href="https://github.com/sariftachamo-9">
-    <img src="https://raw.githubusercontent.com/sariftachamo-9/sariftachamo-9/output/snake.svg" alt="Snake animation" />
   </a>
 </p>
 
