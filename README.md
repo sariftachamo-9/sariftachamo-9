@@ -1,99 +1,137 @@
-<!-- Sarif Tachamo · Cybersecurity Profile -->
-<!-- Banner with Matrix rain animation (static GIF) -->
+<!-- Matrix Rain Banner (animated GIF) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Matrix rain" width="100%" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
 </p>
 
-<!-- Avatar + header -->
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" height="120" style="border-radius:50%; border:2px solid #00d4b0;" />
-  <h1>Sarif Tachamo</h1>
-  <p>
-    <strong>Computer Engineering Student</strong> · 🇳🇵 Nepal<br />
-    <span style="background:#00d4b0; color:#0b0e14; padding:0.2rem 0.8rem; border-radius:20px; font-weight:600;">Cybersecurity</span>
-    <span style="background:#00d4b0; color:#0b0e14; padding:0.2rem 0.8rem; border-radius:20px; font-weight:600;">AI/ML</span>
-  </p>
-  <p>
-    <a href="https://discord.com/invite/55e4VebV"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/sarif-tachamo-cybersec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:sariftachamo.job@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
+<h1 align="center">Sarif Tachamo</h1>
+<p align="center">
+  <strong>Computer Engineering Student</strong> · 
+  <strong>Cybersecurity Researcher &amp; Enthusiast</strong> · 
+  <strong>AI/ML Enthusiast</strong>
+  <br />
+  from 🇳🇵 Nepal
+</p>
+
+<p align="center">
+  <a href="https://discord.com/invite/55e4VebV"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.linkedin.com/in/sarif-tachamo-cybersec/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sariftachamo.job@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
-Hi 👋! I'm **Sarif Tachamo** — a **Computer Engineering Student** from Nepal 🇳🇵 with a deep passion for **Cybersecurity** and **AI/ML**.  
+## 💫 About Me
+
+Hi 👋! I'm **Sarif Tachamo** — a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.  
 I love breaking down complex systems, hunting vulnerabilities, and building intelligent solutions. Currently exploring the intersection of offensive security and machine learning.
 
 ---
 
-## 🧰 Tech Stack
+## 💻 Tech Stack
 
-| **Languages** | **Frameworks & Libraries** | **Databases & Cloud** |
-|---------------|----------------------------|------------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
-| **ML & Data** | **Design & Tools** | **Others** |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white) |
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Stats row: two columns via table -->
-<table align="center">
-  <tr>
-    <td><img src="https://github-readme-stats.shion.dev/api?username=sariftachamo-9&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sariftachamo-9&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" /></td>
-  </tr>
-</table>
-
-<!-- Streak (only Total Contributions & Current Streak) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sariftachamo-9&theme=dark&hide_border=false&hide_longest_streak=true" alt="GitHub Streak" />
+  <a href="https://github.com/sariftachamo-9">
+    <img src="https://github-readme-stats.shion.dev/api?username=sariftachamo-9&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/sariftachamo-9">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sariftachamo-9&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
+  </a>
 </p>
 
-<!-- Activity Graph -->
+### 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sariftachamo-9&theme=react-dark&hide_border=true&area=true&bg_color=0b0e14&color=00d4b0&line=00d4b0&point=00ffc8" alt="Activity Graph" />
+  <a href="https://github.com/sariftachamo-9">
+    <img src="https://streak-stats.demolab.com/?user=sariftachamo-9&theme=dark&hide_border=false&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
 </p>
 
----
+### 📈 Contribution Graph
 
-## 🐍 Snake eating my contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sariftachamo-9/sariftachamo-9/output/snake.svg" alt="Snake animation" />
+  <a href="https://github.com/sariftachamo-9">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sariftachamo-9&theme=react-dark&hide_border=true&area=true&bg_color=0b0e14&color=00d4b0&line=00d4b0&point=00ffc8" alt="Activity Graph" />
+  </a>
+</p>
+
+### 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <a href="https://github.com/sariftachamo-9">
+    <img src="https://raw.githubusercontent.com/sariftachamo-9/sariftachamo-9/output/snake.svg" alt="Snake animation" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tags |
-|---------|-------------|------|
-| **VulnScanner** | Automated vulnerability scanner for web apps using Python & OWASP top 10. | `Python` `Security` |
-| **PhishDetect** | ML‑based phishing URL detector with 94% accuracy using TensorFlow. | `TensorFlow` `NLP` |
-| **CipherX** | Cross‑platform encryption tool with AES‑256 and CLI interface. | `C++` `Crypto` |
-| **ThreatIntel** | Real‑time threat intelligence feed aggregator with alerting system. | `Flask` `APIs` |
+| Project | Description |
+|---------|-------------|
+| **[VulnScanner](#)** | Automated vulnerability scanner for web apps using Python &amp; OWASP top 10. |
+| **[PhishDetect](#)** | ML‑based phishing URL detector with 94% accuracy using TensorFlow. |
+| **[CipherX](#)** | Cross‑platform encryption tool with AES‑256 and CLI interface. |
+| **[ThreatIntel](#)** | Real‑time threat intelligence feed aggregator with alerting system. |
 
 ---
 
-## 💬 Quote
-> *In the world of bits, the only constant is the battle between those who build and those who break.*
-
----
-
-## ☕ Support my work
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Thanks%20for%20you%20coffee)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/89GP4598VD79W)
-
----
+## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sariftachamo-9&icon=0&color=0" alt="Visitor counter" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
 </p>
 
+---
+
+## 👀 Visitor Counter
+
 <p align="center">
-  ⚡ built with <span style="color:#00d4b0;">&lt;/&gt;</span> — sariftachamo-9 · cybersecurity theme
+  <img src="https://komarev.com/ghpvc/?username=sariftachamo-9&icon=0&color=0" alt="Profile views" />
+</p>
+
+---
+
+## 💰 Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/Thanks%20for%20you%20coffee">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />
+  </a>
+  <a href="https://www.paypal.com/ncp/payment/89GP4598VD79W">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>⚡ built with &lt;/&gt; — sariftachamo-9 · cybersecurity theme</sub>
 </p>
