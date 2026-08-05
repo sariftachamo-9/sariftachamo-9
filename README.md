@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">
+<h2 align="left">
 Hi 👋! I'm <b>Sarif Tachamo</b> <br>
 <b>Computer Engineering Student | Cybersecurity Researcher & Enthusiast | AI/ML Enthusiast</b> from 🇳🇵 Nepal.
 </h2>
@@ -14,11 +14,11 @@ Hi 👋! I'm <b>Sarif Tachamo</b> <br>
 <div align="center">
 
 <img height="165"
-src="https://github-readme-stats.hackclub.dev/api?username=sariftachamo-9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false"
+src="https://github-readme-stats.vercel.app/api?username=sariftachamo-9&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false"
 alt="GitHub Stats"/>
 
 <img height="165"
-src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=sariftachamo-9&layout=compact&langs_count=8&theme=dracula&hide_border=false"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sariftachamo-9&layout=compact&langs_count=8&theme=dracula&hide_border=false"
 alt="Top Languages"/>
 
 </div>
