@@ -84,8 +84,6 @@
 
 ### 🔥 GitHub Streak
 
-> **Fixed:** Shows only *Total Contributions* and *Current Streak* (longest streak hidden).
-
 <p align="center">
   <a href="https://github.com/sariftachamo-9">
     <img src="https://streak-stats.demolab.com/?user=sariftachamo-9&theme=dark&hide_border=false&hide_longest_streak=true" alt="GitHub Streak" />
