@@ -21,21 +21,6 @@
             justify-content: center;
             padding: 2rem 1rem;
             color: #e4e9f0;
-            min-height: 100vh;
-            position: relative;
-            overflow-x: hidden;
-        }
-
-        /* ── Matrix canvas background ── */
-        #matrix-canvas {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: 0;
-            pointer-events: none;  /* allow clicks to pass through */
-            opacity: 0.35;         /* subtle so content remains readable */
         }
 
         .profile-card {
@@ -49,8 +34,6 @@
             border: 1px solid rgba(0, 255, 200, 0.12);
             box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8), inset 0 1px 0 rgba(0, 255, 200, 0.06);
             transition: all 0.2s ease;
-            position: relative;
-            z-index: 1;
         }
 
         /* ── scrollbar ── */
@@ -504,9 +487,6 @@
 </head>
 <body>
 
-    <!-- Matrix Rain Canvas -->
-    <canvas id="matrix-canvas"></canvas>
-
     <div class="profile-card">
 
         <!-- ═══ HEADER ═══ -->
@@ -711,62 +691,5 @@
 
     </div>
 
-    <!-- Matrix Rain Script -->
-    <script>
-        (function() {
-            const canvas = document.getElementById('matrix-canvas');
-            const ctx = canvas.getContext('2d');
-
-            let width, height;
-            let columns;
-            let drops = [];
-            const matrixChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890@#$%^&*()*&^%+-/~{[|`]}";
-            const fontSize = 18;
-
-            function resizeCanvas() {
-                width = window.innerWidth;
-                height = window.innerHeight;
-                canvas.width = width;
-                canvas.height = height;
-                columns = Math.floor(width / fontSize);
-                // reset drops
-                drops = [];
-                for (let i = 0; i < columns; i++) {
-                    drops[i] = 1;
-                }
-            }
-
-            function draw() {
-                // Black background with slight transparency for trail effect
-                ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
-                ctx.fillRect(0, 0, width, height);
-
-                ctx.fillStyle = '#00d4b0'; // matrix green
-                ctx.font = fontSize + 'px monospace';
-
-                for (let i = 0; i < drops.length; i++) {
-                    const char = matrixChars[Math.floor(Math.random() * matrixChars.length)];
-                    const x = i * fontSize;
-                    const y = drops[i] * fontSize;
-
-                    // Random brightness variation
-                    const brightness = Math.random() * 0.5 + 0.5;
-                    ctx.fillStyle = `rgba(0, 212, 176, ${brightness})`;
-                    ctx.fillText(char, x, y);
-
-                    // reset drop when it goes off screen
-                    if (y > height && Math.random() > 0.975) {
-                        drops[i] = 0;
-                    }
-                    drops[i]++;
-                }
-                requestAnimationFrame(draw);
-            }
-
-            window.addEventListener('resize', resizeCanvas);
-            resizeCanvas();
-            draw();
-        })();
-    </script>
 </body>
 </html>
