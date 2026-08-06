@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <rect width="800" height="400" fill="#0b0e14"/>
+
+  <style>
+    @keyframes glitch {
+      0% { transform: translate(0); }
+      20% { transform: translate(-3px, 2px); }
+      40% { transform: translate(3px, -2px); }
+      60% { transform: translate(-2px, 3px); }
+      80% { transform: translate(2px, -3px); }
+      100% { transform: translate(0); }
+    }
+    @keyframes flicker {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+    @keyframes type {
+      from { width: 0; }
+      to { width: 100%; }
+    }
+    .line {
+      fill: #00d4b0;
+      font-family: 'Courier New', monospace;
+      font-size: 28px;
+      font-weight: bold;
+    }
+    .glitch {
+      animation: glitch 0.3s infinite alternate;
+    }
+    .flicker {
+      animation: flicker 1.5s infinite;
+    }
+    .typewriter {
+      overflow: hidden;
+      white-space: nowrap;
+      animation: type 2s steps(30, end) forwards;
+    }
+    .cursor {
+      animation: blink 0.7s step-end infinite;
+    }
+    @keyframes blink {
+      from, to { fill-opacity: 1; }
+      50% { fill-opacity: 0; }
+    }
+  </style>
+
+  <!-- Glitchy surprise -->
+  <text x="400" y="100" text-anchor="middle" class="line glitch" font-size="36" fill="#ff00c1">!!! Surprise !!!</text>
+
+  <!-- Typewriter lines -->
+  <text x="400" y="160" text-anchor="middle" class="line flicker" font-size="30">
+    <tspan>i can see you</tspan>
+  </text>
+
+  <text x="400" y="210" text-anchor="middle" class="line" font-size="28">
+    <tspan class="typewriter" style="display:inline-block; overflow:hidden; white-space:nowrap;">And i will Find you</tspan>
+  </text>
+
+  <text x="400" y="270" text-anchor="middle" class="line" font-size="26">
+    <tspan class="typewriter" style="display:inline-block; overflow:hidden; white-space:nowrap; animation-delay: 1s;">No matter Where you are or Where you Hide</tspan>
+  </text>
+
+  <!-- Signature with glow -->
+  <text x="650" y="340" text-anchor="end" class="line" font-size="22" fill="#00ffc8" opacity="0.8">
+    — Master S....
+  </text>
+
+  <!-- Blinking cursor (optional) -->
+  <text x="430" y="270" class="cursor" font-size="26" fill="#00d4b0" dy="0">|</text>
+</svg>
