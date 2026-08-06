@@ -35,10 +35,15 @@
 ## 💫 About Me
 
 <p align="left">
-  I'm <strong>Sarif Tachamo</strong> — a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.<br><br>
-  - 🔭 I’m currently working on <strong>offensive security research &amp; AI-driven threat detection</strong><br>
-  - 📚 I'm currently learning <strong>advanced malware analysis &amp; deep learning for cybersecurity</strong><br>
-  - ⚡ In my free time I <strong>hack CTF challenges, build security tools, and contribute to open-source projects</strong>
+  I'm <strong>Sarif Tachamo</strong> — a <strong>Computer Engineering Student</strong> from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.<br><br>
+
+🛡️ Cybersecurity Enthusiast & Researcher<br>
+💻 Computer Engineering Student<br>
+🤖 AI/ML Explorer<br>
+🔐 Passionate about Ethical Hacking, Threat Detection & Digital Forensics<br>
+🛠️ Building Security Tools & Automation<br>
+🚀 Open Source Contributor & Security Developer<br>
+</p>
 </p>
 
 ---
@@ -94,12 +99,18 @@
 
 ## 🚀 Featured Projects
 
+Here are some of my most notable cybersecurity & AI/ML projects:
+
 | Project | Description |
 |---------|-------------|
-| **[VulnScanner](#)** | Automated vulnerability scanner for web apps using Python &amp; OWASP top 10. |
-| **[PhishDetect](#)** | ML‑based phishing URL detector with 94% accuracy using TensorFlow. |
-| **[CipherX](#)** | Cross‑platform encryption tool with AES‑256 and CLI interface. |
-| **[ThreatIntel](#)** | Real‑time threat intelligence feed aggregator with alerting system. |
+| **[Credential-Strength-Analyzer](https://github.com/sariftachamo-9/Credential-Strength-Analyzer)** | Python‑based credential security toolkit with real‑time password strength analysis via GUI and terminal. |
+| **[cipherlock-ransomware-simulator](https://github.com/sariftachamo-9/cipherlock-ransomware-simulator)** | Educational ransomware simulation with full‑screen lock, decoy passwords, biometric mock‑ups, and persistence. |
+| **[esp32-evil-twin-lab](https://github.com/sariftachamo-9/esp32-evil-twin-lab)** | ESP32 Evil Twin tool that clones Wi‑Fi, hosts fake login pages, and captures credentials – for educational research. |
+| **[host-information-extractor](https://github.com/sariftachamo-9/host-information-extractor)** | USB‑based data exfiltration and post‑exploitation intelligence harvesting suite (Python). |
+| **[DNS-traffic-analysis-platform](https://github.com/sariftachamo-9/DNS-traffic-analysis-platform)** | Real‑time DNS monitoring with threat intelligence–based malicious domain blocking and forensic cookie collection. |
+| **[contribution-art](https://github.com/sariftachamo-9/contribution-art)** | A Go tool that generates custom patterns on your GitHub contribution heatmap – creative automation. |
+
+*Explore all my repositories on [GitHub](https://github.com/sariftachamo-9?tab=repositories).*
 
 ---
 
