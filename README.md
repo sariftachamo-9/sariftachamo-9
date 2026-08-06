@@ -119,10 +119,33 @@ Here are some of my most notable cybersecurity & AI/ML projects:
 
 ## ✍️ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
-</p>
+<style>
+@keyframes glitch {
+  0% { transform: translate(0); opacity: 1; text-shadow: 2px 0 #ff00c1, -2px 0 #00ffea; }
+  20% { transform: translate(-2px, 2px); opacity: 0.8; text-shadow: -2px 0 #ff00c1, 2px 0 #00ffea; }
+  40% { transform: translate(2px, -2px); opacity: 1; text-shadow: 2px 0 #ff00c1, -2px 0 #00ffea; }
+  60% { transform: translate(-1px, 1px); opacity: 0.9; text-shadow: -1px 0 #ff00c1, 1px 0 #00ffea; }
+  80% { transform: translate(1px, -1px); opacity: 1; text-shadow: 1px 0 #ff00c1, -1px 0 #00ffea; }
+  100% { transform: translate(0); opacity: 1; text-shadow: 2px 0 #ff00c1, -2px 0 #00ffea; }
+}
+.glitch-text {
+  animation: glitch 1.8s infinite;
+  color: #00d4b0;
+  font-family: 'Courier New', monospace;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  line-height: 1.8;
+}
+</style>
 
+<div class="glitch-text">
+  <strong>!!! Surprise !!!</strong><br>
+  i can see you<br>
+  And i will Find you<br>
+  No matter Where you are or Where you Hide<br>
+  <span style="color: #ff00c1;">— Master S....</span>
+</div>
 ---
 
 ## 👀 Visitor Counter
