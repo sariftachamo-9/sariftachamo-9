@@ -119,9 +119,7 @@ Here are some of my most notable cybersecurity & AI/ML projects:
 
 ## ✍️ Random Dev Quote
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6" style="color: #00d4b0; font-family: 'Courier New', monospace; font-size: 1.4rem; font-weight: bold; text-shadow: 0 0 10px #00ffc8, 0 0 20px #00d4b0;">
-    !!! Surprise !!! &nbsp;|&nbsp; i can see you &nbsp;|&nbsp; And i will Find you &nbsp;|&nbsp; No matter Where you are or Where you Hide &nbsp;|&nbsp; — Master S....
-  </marquee>
+  <img src="master-message.svg" alt="Hacker message" width="800" />
 </p>
 ---
 
