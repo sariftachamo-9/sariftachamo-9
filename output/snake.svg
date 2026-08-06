@@ -1,1 +1,31 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <rect width="800" height="200" fill="#0b0e14"/>
+  
+  <!-- Snake body (green trail) -->
+  <g fill="#00d4b0" opacity="0.8">
+    <rect x="100" y="80" width="12" height="12" rx="2"/>
+    <rect x="116" y="80" width="12" height="12" rx="2"/>
+    <rect x="132" y="80" width="12" height="12" rx="2"/>
+    <rect x="148" y="80" width="12" height="12" rx="2"/>
+    <rect x="164" y="80" width="12" height="12" rx="2"/>
+    <rect x="180" y="80" width="12" height="12" rx="2"/>
+    <rect x="196" y="80" width="12" height="12" rx="2"/>
+    <rect x="212" y="80" width="12" height="12" rx="2"/>
+    <rect x="228" y="80" width="12" height="12" rx="2"/>
+    <rect x="244" y="80" width="12" height="12" rx="2"/>
+    <rect x="260" y="80" width="12" height="12" rx="2"/>
+    <rect x="276" y="80" width="12" height="12" rx="2"/>
+    <rect x="292" y="80" width="12" height="12" rx="2"/>
+    <rect x="308" y="80" width="12" height="12" rx="2"/>
+    <rect x="324" y="80" width="12" height="12" rx="2"/>
+  </g>
+  
+  <!-- Snake head -->
+  <circle cx="340" cy="86" r="8" fill="#00ffc8"/>
+  
+  <!-- Text -->
+  <text x="400" y="100" font-family="monospace" font-size="16" fill="#8b9bb5" text-anchor="middle">
+    🐍 Snake placeholder – run workflow to generate real one
+  </text>
+</svg>
