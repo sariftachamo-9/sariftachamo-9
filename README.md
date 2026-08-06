@@ -35,15 +35,10 @@
 ## 💫 About Me
 
 <p align="left">
-  I'm <strong>Sarif Tachamo</strong> — a <strong>Computer Engineering Student</strong> from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.<br><br>
-
-🛡️ Cybersecurity Enthusiast & Researcher<br>
-💻 Computer Engineering Student<br>
-🤖 AI/ML Explorer<br>
-🔐 Passionate about Ethical Hacking, Threat Detection & Digital Forensics<br>
-🛠️ Building Security Tools & Automation<br>
-🚀 Open Source Contributor & Security Developer<br>
-</p>
+  I'm <strong>Sarif Tachamo</strong> — a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.<br><br>
+  - 🔭 I’m currently working on <strong>offensive security tools</strong> – including ransomware simulators, evil twin Wi‑Fi attacks, and credential strength analyzers.<br>
+  - 📚 I'm currently learning <strong>advanced malware analysis &amp; deep learning</strong> applied to cybersecurity, building projects like <strong>DNS traffic analysis platforms</strong> and <strong>data exfiltration suites</strong>.<br>
+  - ⚡ In my free time I <strong>hack CTF challenges, develop security research tools (like USB‑based information extractors), and contribute to open‑source projects</strong> – all while exploring the intersection of AI and offensive security.
 </p>
 
 ---
@@ -95,6 +90,14 @@
   </a>
 </p>
 
+### 🐍 Snake Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sariftachamo-9/sariftachamo-9/output/snake.svg" alt="Snake animation" />
+</p>
+
+> 💡 This snake is generated daily by a GitHub Action – make sure you have the `.github/workflows/snake.yml` workflow set up. See [this guide](#) if you need help.
+
 ---
 
 ## 🚀 Featured Projects
@@ -144,5 +147,5 @@ Here are some of my most notable cybersecurity & AI/ML projects:
 ---
 
 <p align="center">
-  <sub>⚡ built by — Sarif Tachamo | Cybersecurity Theme</sub>
+  <sub>⚡ built by —<strong>Sarif Tachamo</strong> </sub>
 </p>
