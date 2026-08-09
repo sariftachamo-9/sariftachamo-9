@@ -36,11 +36,12 @@
 
 I'm a Computer Engineering graduate who works at the intersection of **cybersecurity** and **data analytics** — building tools that both defend systems and turn security/operational data into actionable insight.
 
-- 🔐 I study attacker techniques hands‑on (in isolated lab environments) so I can build better detection, monitoring, and defensive tooling.  
-- 📊 I apply the same analytical mindset to data analytics — KPI dashboards, trend analysis, and root‑cause investigation, including healthcare claims and revenue cycle data.  
-- 🧪 Current focus: DNS/network traffic monitoring, credential security auditing, and healthcare operational analytics.  
-- 🎓 Background: Computer Engineering (Khwopa Engineering College), published research in handwritten character recognition (AI/ML).
-
+- 🛡️ Cybersecurity & Data Analytics practitioner – building defensive tools and turning security/ops data into insights.
+- 🔐 Hands‑on offensive research in isolated labs – improving detection, monitoring, and response.
+- 📊 Analytics focus: KPI dashboards, trend analysis, root‑cause investigation (healthcare RCM & claims).
+- 🧪 Current interests: DNS/network traffic monitoring, credential security auditing, healthcare analytics.
+- 🎓 Computer Engineering graduate (Khwopa Engineering College) – published AI/ML research on handwritten character recognition(Ran2Dev).
+- 🌍 Open‑source contributor & active security researcher.
 ---
 
 ## 💻 Tech Stack
