@@ -8,11 +8,11 @@
       <td align="left">
         <h1>Sarif Tachamo</h1>
         <p>
-          <strong>Computer Engineering Student</strong> | 
-          <strong>Cybersecurity Researcher &amp; Enthusiast</strong> | 
-          <strong>AI/ML Enthusiast</strong>
+          <strong>Cybersecurity Analyst</strong> | 
+          <strong>Data Analyst</strong> | 
+          <strong>Healthcare Domain (RCM &amp; Claims Analytics)</strong>
           <br />
-          from 🇳🇵 Nepal
+          📍 Nepal 🇳🇵
         </p>
         <p>
           <a href="https://discord.com/invite/55e4VebV">
@@ -27,7 +27,6 @@
         </p>
       </td>
     </tr>
-    
   </table>
 </p>
 
@@ -35,40 +34,80 @@
 
 ## 💫 About Me
 
-<p align="left">
-  I'm <strong>Sarif Tachamo</strong> — a Computer Engineering Student from Nepal 🇳🇵 with a deep passion for Cybersecurity and AI/ML.<br><br>
-  - 🔭 I’m currently working on <strong>offensive security tools</strong> – including ransomware simulators, evil twin Wi‑Fi attacks, and credential strength analyzers.<br>
-  - 📚 I'm currently learning <strong>advanced malware analysis &amp; deep learning</strong> applied to cybersecurity, building projects like <strong>DNS traffic analysis platforms</strong> and <strong>data exfiltration suites</strong>.<br>
-  - ⚡ In my free time I <strong>hack CTF challenges, develop security research tools (like USB‑based information extractors), and contribute to open‑source projects</strong> – all while exploring the intersection of AI and offensive security.
-</p>
+I'm a Computer Engineering graduate who works at the intersection of **cybersecurity** and **data analytics** — building tools that both defend systems and turn security/operational data into actionable insight.
+
+- 🔐 I study attacker techniques hands‑on (in isolated lab environments) so I can build better detection, monitoring, and defensive tooling.  
+- 📊 I apply the same analytical mindset to data analytics — KPI dashboards, trend analysis, and root‑cause investigation, including healthcare claims and revenue cycle data.  
+- 🧪 Current focus: DNS/network traffic monitoring, credential security auditing, and healthcare operational analytics.  
+- 🎓 Background: Computer Engineering (Khwopa Engineering College), published research in handwritten character recognition (AI/ML).
 
 ---
 
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <!-- Security & Tools -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cryptography-RSA%2FAES-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OTP%2FMFA-2F4F4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Penetration_Testing-2C3E50?style=for-the-badge" />
+  <!-- Data Analytics -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/KPI_%26_Trend_Analysis-FF6F00?style=for-the-badge" />
+  <!-- Development -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <!-- DevOps & Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### Security & Analytics (defensive / analytical focus)
+
+| Project | Description |
+|---------|-------------|
+| **[DNS-traffic-analysis-platform](https://github.com/sariftachamo-9/DNS-traffic-analysis-platform)** | Real‑time DNS monitoring platform with threat‑intelligence‑based malicious domain detection and forensic logging. |
+| **[Cookie-Security-Toolkit](https://github.com/sariftachamo-9/Cookie-Security-Toolkit)** | Toolkit for auditing browser cookie security — built for forensic investigators and security auditors analyzing session‑state risks. |
+| **[Credential-Strength-Analyzer](https://github.com/sariftachamo-9/Credential-Strength-Analyzer)** | Python‑based toolkit for real‑time password strength analysis and credential hygiene auditing (GUI + terminal). |
+| **Healthcare Claims & Operational Analytics** | Case study analyzing hospital claims, staffing, and revenue KPIs to identify denial‑rate drivers and process bottlenecks. *(link to write‑up or repo if available)* |
+
+### Applied Systems
+
+| Project | Description |
+|---------|-------------|
+| **[Employee Management System](https://github.com/sariftachamo-9/employee-management-system)** | Secure HR/payroll platform (Flask + PostgreSQL) with encrypted PII storage and OTP‑based 2FA. |
+| **[Hotel Management System](https://github.com/sariftachamo-9/hotel-management-system)** | Full‑stack booking platform with JWT auth, role‑based access, and optimized query performance. |
+
+### Security Research Labs (controlled, isolated lab environments only)
+
+| Project | Description |
+|---------|-------------|
+| **[cybersec-learning-laboratory](https://github.com/sariftachamo-9/cybersec-learning-laboratory)** | Applied cryptography and wordlist‑generation fundamentals lab. |
+| **[ipmask-ip-rotation-framework](https://github.com/sariftachamo-9/ipmask-ip-rotation-framework)** | IP rotation framework for studying network anonymization and traceability defenses. |
+| **[esp32-evil-twin-lab](https://github.com/sariftachamo-9/esp32-evil-twin-lab)** | Wi‑Fi rogue access point simulation for studying wireless attack detection — isolated lab use only. |
+| **[keystroke-activity-analyzer](https://github.com/sariftachamo-9/keystroke-activity-analyzer)** | Progressive systems‑programming study of input‑monitoring techniques, built to inform endpoint detection strategies. |
+
+> ⚠️ **All offensive‑technique projects above are built and run strictly in isolated lab/CTF environments for defensive research and education** — not deployed against real targets or systems without authorization.
 
 ---
 
@@ -101,27 +140,20 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Certifications
 
-Here are some of my most notable cybersecurity & AI/ML projects:
-
-| Project | Description |
-|---------|-------------|
-| **[Credential-Strength-Analyzer](https://github.com/sariftachamo-9/Credential-Strength-Analyzer)** | Python‑based credential security toolkit with real‑time password strength analysis via GUI and terminal. |
-| **[cipherlock-ransomware-simulator](https://github.com/sariftachamo-9/cipherlock-ransomware-simulator)** | Educational ransomware simulation with full‑screen lock, decoy passwords, biometric mock‑ups, and persistence. |
-| **[esp32-evil-twin-lab](https://github.com/sariftachamo-9/esp32-evil-twin-lab)** | ESP32 Evil Twin tool that clones Wi‑Fi, hosts fake login pages, and captures credentials – for educational research. |
-| **[host-information-extractor](https://github.com/sariftachamo-9/host-information-extractor)** | USB‑based data exfiltration and post‑exploitation intelligence harvesting suite (Python). |
-| **[DNS-traffic-analysis-platform](https://github.com/sariftachamo-9/DNS-traffic-analysis-platform)** | Real‑time DNS monitoring with threat intelligence–based malicious domain blocking and forensic cookie collection. |
-| **[contribution-art](https://github.com/sariftachamo-9/contribution-art)** | A Go tool that generates custom patterns on your GitHub contribution heatmap – creative automation. |
-
-*Explore all my repositories on [GitHub](https://github.com/sariftachamo-9?tab=repositories).*
+- **Generative AI Fundamentals** – Databricks (2024)  
+- **Cyber Security Introduction** – Simplilearn (2024)  
+- **Cyber Security Workshop** – Global IoT Nepal (2025)
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote (a.k.a. “I see you” message)
+
 <p align="center">
   <img src="master-message.svg" alt="Hacker message" width="800" />
 </p>
+
 ---
 
 ## 👀 Visitor Counter
@@ -145,6 +177,12 @@ Here are some of my most notable cybersecurity & AI/ML projects:
 
 ---
 
+## ⚡ Open to Roles
+
+I am open to **Cybersecurity Analyst**, **SOC Analyst**, **GRC/Compliance Analyst**, **Application Security**, and **Data Analyst** roles — especially where security and analytics intersect with the **US healthcare domain**.
+
+---
+
 <p align="center">
-  <sub>⚡ built by —<strong>Sarif Tachamo</strong> </sub>
+  <sub>⚡ built by — <strong>Sarif Tachamo</strong></sub>
 </p>
