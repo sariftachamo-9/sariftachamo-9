@@ -153,7 +153,7 @@ I'm a Computer Engineering graduate who works at the intersection of **cybersecu
 ## ✍️ Random Dev Quote (a.k.a. “I see you” message)
 
 <p align="center">
-  <img src="master-message.svg" alt="Hacker message" width="800" />
+  <img src="output/master-message.svg" alt="Hacker message" width="800" />
 </p>
 
 ---
