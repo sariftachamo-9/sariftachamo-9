@@ -134,7 +134,7 @@ I'm a Computer Engineering graduate who works at the intersection of **cybersecu
 ### 🐍 Snake Eating My Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sariftachamo-9/sariftachamo-9/main/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sariftachamo-9/sariftachamo-9/output/snake.svg?ref=1" alt="Snake animation" />
  
 </p>
 
