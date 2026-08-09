@@ -14,10 +14,6 @@
       80% { transform: translate(2px, -3px); }
       100% { transform: translate(0); }
     }
-    @keyframes flicker {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0.3; }
-    }
     @keyframes blink {
       from, to { fill-opacity: 1; }
       50% { fill-opacity: 0; }
@@ -69,15 +65,6 @@
   <!-- Signature – fades in last with glitch -->
   <text x="650" y="470" class="signature" text-anchor="end">— Master S....</text>
 
-  <!-- Blinking cursor (optional, at the end of the last line) -->
+  <!-- Blinking cursor at the end of the last line -->
   <text x="430" y="400" class="cursor" fill="#00ffc8" font-size="30">|</text>
-</svg>
-
-  <!-- Signature with glow -->
-  <text x="650" y="340" text-anchor="end" class="line" font-size="22" fill="#00ffc8" opacity="0.8">
-    — Master S....
-  </text>
-
-  <!-- Blinking cursor (optional) -->
-  <text x="430" y="270" class="cursor" font-size="26" fill="#00d4b0" dy="0">|</text>
 </svg>
