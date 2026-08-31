@@ -2,12 +2,10 @@
 <!-- Header: GIF left · Text right { <img src="output/gp_200matrix.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">}
 {  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY5NXI1a2JtczNyZ3BweHRiM3M4ZnN0YjB5OXp5amdvcDR2eXdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" width="200" />  }-->
 <p align="center">
- 
   <table>
     <tr>
-      <td align="center" width="200">
-          <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY5NXI1a2JtczNyZ3BweHRiM3M4ZnN0YjB5OXp5amdvcDR2eXdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" width="200" /> 
-      
+      <td align="center" style="padding-right: 20px;">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY5NXI1a2JtczNyZ3BweHRiM3M4ZnN0YjB5OXp5amdvcDR2eXdiMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3wr2cnwlghNomDeN9W/giphy.gif" width="200" alt="Animated banner" />
       </td>
       <td align="left">
         <h1>Sarif Tachamo</h1>
