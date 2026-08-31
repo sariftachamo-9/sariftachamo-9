@@ -1,5 +1,5 @@
-<img src="output/gp_200matrix.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
-
+<center> <img src="output/gp_200matrix.svg" width="300" alt="Gargi Bhardwaj, rendered as a dot matrix">
+</center>
 <!-- Header: GIF left · Text right -->
 <p align="center">
   <table>
